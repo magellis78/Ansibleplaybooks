@@ -4,10 +4,10 @@
   tasks:
    - name: User creation
      user:
-      name: Hari
-      password: intelliqit
+      name: kenny
+      password: kenny
       uid: 1590
-      home: /home/ubuntu/Hari
+      home: /home/ubuntu/kenny
       comment: "A normal user"
       shell: /bin/bash
 ...
